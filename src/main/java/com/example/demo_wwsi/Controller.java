@@ -8,6 +8,6 @@ public class Controller {
 
     @GetMapping()
     public String helloMethod(){
-        return "Hello from us-east";
+        return "Hello from us-east - SWAP SLOT";
     }
 }
